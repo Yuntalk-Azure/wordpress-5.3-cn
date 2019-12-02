@@ -1,1 +1,1 @@
-# wordpress-5.3-cn
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
